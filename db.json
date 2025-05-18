@@ -1,0 +1,60 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "restaurantId": "1",
+      "name": "Zinger Burger",
+      "description": "Crispy fried chicken with mayo",
+      "price": 550,
+      "category": "Burger"
+    },
+    {
+      "id": "2",
+      "restaurantId": "1",
+      "name": "Cheese Burger",
+      "description": "Juicy patty with cheddar cheese",
+      "price": 600,
+      "category": "Burger"
+    },
+    {
+      "id": "3",
+      "restaurantId": "1",
+      "name": "Pepsi",
+      "description": "Chilled Pepsi soft drink",
+      "price": 100,
+      "category": "Drink"
+    },
+    {
+      "id": "4",
+      "restaurantId": "1",
+      "name": "7UP",
+      "description": "Lemon flavored soft drink",
+      "price": 100,
+      "category": "Drink"
+    },
+    {
+      "id": "5",
+      "restaurantId": "2",
+      "name": "Large Pizza",
+      "description": "12 inch loaded with cheese & toppings",
+      "price": 1200,
+      "category": "Pizza"
+    },
+    {
+      "id": "6",
+      "restaurantId": "2",
+      "name": "Garlic Bread",
+      "description": "Crunchy bread with garlic butter",
+      "price": 350,
+      "category": "Sides"
+    },
+    {
+      "id": "7",
+      "restaurantId": "2",
+      "name": "Mountain Dew",
+      "description": "Chilled Mountain Dew drink",
+      "price": 100,
+      "category": "Drink"
+    }
+  ]
+}
